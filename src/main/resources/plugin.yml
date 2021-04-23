@@ -1,0 +1,6 @@
+main: tk.blugon0921.motd.Main
+version: 2.0
+name: Motd
+api-version: 1.16
+description: Motd Plugin!
+author: Blugon0921
