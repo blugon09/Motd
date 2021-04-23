@@ -1,2 +1,2 @@
 # Motd
-Motd Plugin for PaperM
+Motd Plugin for PaperMC
